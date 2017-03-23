@@ -1,0 +1,38 @@
+body{
+	background-color: #fed420 !important;
+	
+	font-family: 'Gloria Hallelujah', cursive !important;
+
+}
+
+h1{
+	text-align: center;
+	color: red !important;
+	font-size: 100px !important;
+}
+	
+.jumbotron {
+	background: #00551e !important;
+	text-align: center;
+	color: #ffffff !important;
+	box-sizing: border-box;
+	border-radius: 15px;
+	height: 475px;
+	width: :700px !important;
+}
+
+.answer:hover {
+  background: #fed420;
+} 
+
+
+p{
+	text-align: right;
+	color: white !important;
+}
+
+h2{
+	color: red !important;
+	text-align: left;
+}
+
